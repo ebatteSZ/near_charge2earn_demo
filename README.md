@@ -1,3 +1,4 @@
+
 # About ebatte
 
 ebatte is the first-ever Charge/Recycle2Earn battery platform on the market. Enabled by the AIoT power banks connected to the NEAR protocol, ebatte uses NFT games to incentivize the battery users to a ecofriendly lifestyle.
@@ -30,4 +31,5 @@ Our ultimate goal is to achieve zero pollution in battery recycle. To do that, w
 
 Update demo
 Latest package: (https://github.com/ebatteSZ/near_charge2earn_demo/releases/tag/v1.0.0/nearCharge2earnDemo.apk)
+
 
