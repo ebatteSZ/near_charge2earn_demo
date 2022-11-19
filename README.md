@@ -29,7 +29,7 @@ In the near future, we will deploy our algorithms to real-life hardware, startin
 
 Our ultimate goal is to achieve zero pollution in battery recycle. To do that, we are going to build a credible flow of information on battery production and use throughout the industry chain, with the help of our algorithms and NEAR protocol.
 
-Update demo
+
 Latest package: https://github.com/ebatteSZ/near_charge2earn_demo/releases
 
 
